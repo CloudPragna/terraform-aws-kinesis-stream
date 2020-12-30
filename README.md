@@ -39,3 +39,7 @@ To know how to use please refer to `examples` folder
 | shard\_count | The count of Shards for this Stream |
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+## License
+
+Apache 2 Licensed. See LICENSE for full details.
+
